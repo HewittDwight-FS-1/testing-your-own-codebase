@@ -1,0 +1,23 @@
+{
+  "name": "testing-your-own-codebase",
+  "version": "1.0.0",
+  "description": "Week 4 assignment for Testing Your Own Codebase - Full Sail University",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HewittDwight-FS-1/testing-your-own-codebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HewittDwight-FS-1/testing-your-own-codebase/issues"
+  },
+  "homepage": "https://github.com/HewittDwight-FS-1/testing-your-own-codebase#readme",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
